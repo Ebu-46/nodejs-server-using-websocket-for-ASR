@@ -1,5 +1,6 @@
 const SocketServer = require('websocket').server
 const http = require('http')
+let PORT = process.env.PORT || 3000
 
 const server = http.createServer((req, res) => {})
 
