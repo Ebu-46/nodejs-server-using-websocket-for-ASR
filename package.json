@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-server-using-websocket-for-asr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebu-46/nodejs-server-using-websocket-for-ASR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ebu-46/nodejs-server-using-websocket-for-ASR/issues"
+  },
+  "homepage": "https://github.com/Ebu-46/nodejs-server-using-websocket-for-ASR#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
